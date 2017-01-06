@@ -79,10 +79,10 @@ if(isset($_POST['email'])) {
 
 <!-- Thank you for contacting me. Will be in touch with you very soon.
  -->
-<!--
+
 
 <?php
 
 }
 
-?> -->
+?>
